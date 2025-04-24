@@ -17,7 +17,6 @@ Transplant type (e.g., matched sibling, unrelated donor, etc.)
 Age group (adult vs pediatric)
 
 Specific disease subgroups
-![Screenshot 2025-04-07 160512](https://github.com/user-attachments/assets/95a575c1-6295-439e-a40e-c3b28742f22f)
 
 # Outputs
 Kaplan-Meier survival curves
@@ -27,6 +26,11 @@ Cumulative incidence plots
 OS and EFS metrics for each category
 
 Real-time visualization powered by Google Sheets (optional)
+
+# Sample Outputs
+![Screenshot 2025-04-07 160512](https://github.com/user-attachments/assets/95a575c1-6295-439e-a40e-c3b28742f22f)
+![Screenshot 2025-04-07 160324](https://github.com/user-attachments/assets/9bd0786a-5cc4-4ca5-9ac3-e263c743c75d)
+
 
 # Technologies Used
 R / R Shiny for interactive UI and statistical analysis
