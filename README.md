@@ -10,9 +10,9 @@ Cumulative Incidence for transplant outcomes
 
 Stratification by:
 
-Disease type
+Disease type (Malignant Vs Benign)
 
-Transplant type (e.g., matched sibling, unrelated donor, etc.)
+Transplant type (Allogenic Vs Autologous)
 
 Age group (adult vs pediatric)
 
@@ -24,8 +24,6 @@ Kaplan-Meier survival curves
 Cumulative incidence plots
 
 OS and EFS metrics for each category
-
-Real-time visualization powered by Google Sheets (optional)
 
 # Sample Outputs
 ![Screenshot 2025-04-07 160512](https://github.com/user-attachments/assets/95a575c1-6295-439e-a40e-c3b28742f22f)
