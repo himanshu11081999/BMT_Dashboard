@@ -17,6 +17,7 @@ Transplant type (e.g., matched sibling, unrelated donor, etc.)
 Age group (adult vs pediatric)
 
 Specific disease subgroups
+![Screenshot 2025-04-07 160512](https://github.com/user-attachments/assets/95a575c1-6295-439e-a40e-c3b28742f22f)
 
 # Outputs
 Kaplan-Meier survival curves
